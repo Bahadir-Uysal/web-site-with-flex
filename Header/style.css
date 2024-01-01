@@ -1,0 +1,17 @@
+
+
+
+
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: pink;
+    height: 80px;
+    padding:0px 15px ;
+}
+
+a{
+    text-decoration: none;
+    margin-right: 10px;
+}
